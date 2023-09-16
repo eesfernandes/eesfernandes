@@ -1,7 +1,7 @@
 
 ### Quem sou eu
 
-Olá! Sou Eric Fernandes, um desenvolvedor Web Full-Stack em formação pela Labenu, onde tenho aprimorado minhas habilidades em desenvolvimento web, tanto individualmente quanto em equipe. Concluí com sucesso o módulo de Front-End e estou atualmente cursando o módulo de Back-End.
+Olá! Sou Eric Fernandes, desenvolvedor Web Full-Stack em formação pela Labenu, onde tenho aprimorado minhas habilidades em desenvolvimento web, tanto individualmente quanto em equipe. Concluí com sucesso o módulo de Front-End e estou atualmente cursando o módulo de Back-End.
 
 Minha sólida formação em Comércio Exterior, complementada por um MBA em Negócios Internacionais, me conferiu expertise em áreas como Logística, Prontidão de Carga e Controle Aduaneiro. A minha transição para a área de tecnologia é impulsionada pelo desejo de alinhar minha paixão com minha profissão e aplicar meu conhecimento multidisciplinar.
 
