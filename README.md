@@ -1,3 +1,4 @@
+![Capa](./Img//capa.jfif)
 
 ### Quem sou eu
 
